@@ -1,0 +1,366 @@
+#EXTM3U
+#EXTINF:-1 ,翡翠台(简体)
+http://iptv.tvfix.org/hls/jade2.m3u8
+#EXTINF:48,翡翠台
+http://iptv.tvfix.org/hls/jade.m3u8
+#EXTINF:-1 ,翡翠台海外版(简体)
+http://iptv.tvfix.org/hls/jadenhk2.m3u8
+#EXTINF:0,J2
+http://iptv.tvfix.org/hls/j2.m3u8
+#EXTINF:48,無綫新聞台
+http://iptv.tvfix.org/hls/inews.m3u8
+#EXTINF:0,明珠台
+http://iptv.tvfix.org/hls/pearl.m3u8
+#EXTINF:48,美亚电影台
+http://iptv.tvfix.org/hls/mydy.m3u8
+#EXTINF:-1 ,美亚电影台(普通话)
+http://iptv.tvfix.org/hls/mydy2.m3u8
+#EXTINF:-1,金马影院
+https://pull.kktv8.com/livekktv/128600025/playlist.m3u8#https://pull.kktv8.com/livekktv/128600025.flv?_t=0.03302458679376152
+#EXTINF:48,TVB为食台
+http://iptv.tvfix.org/hls/tvbws.m3u8
+#EXTINF:48,TVB星河
+http://iptv.tvfix.org/hls/tvbxh.m3u8
+#EXTINF:-1 ,TVB星河(普通话)
+http://iptv.tvfix.org/hls/tvbxh2.m3u8
+#EXTINF:48,TVB功夫台
+http://iptv.tvfix.org/hls/tvbkf.m3u8
+#EXTINF:-1 ,TVB功夫(普通话)
+http://iptv.tvfix.org/hls/tvbkf2.m3u8
+#EXTINF:0,TVB经典台
+http://iptv.tvfix.org/hls/tvbjd.m3u8
+#EXTINF:18,凤凰资讯
+http://iptv.tvfix.org/hls/fhzx.m3u8
+#EXTINF:0,凤凰中文
+http://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8
+#EXTINF:0,凤凰电影
+http://iptv.tvfix.org/hls/fhdy.m3u8
+#EXTINF:0,国家地理
+http://iptv.tvfix.org/hls/natlgeo.m3u8
+#EXTINF:0,星空卫视
+http://iptv.tvfix.org/hls/startv.m3u8
+#EXTINF:18,CHC高清电影
+http://iptv.tvfix.org/hls/chchd.m3u8
+#EXTINF:0,CHC动作电影
+http://iptv.tvfix.org/hls/chcatv.m3u8
+#EXTINF:0,CHC家庭电影
+http://iptv.tvfix.org/hls/chctv.m3u8
+#EXTINF:-1 ,爱世界
+http://39.134.134.85/000000001000/6000000006000210630/1.m3u8
+#EXTINF:-1 ,爱科幻
+http://39.134.134.85/000000001000/6000000006000020630/1.m3u8
+#EXTINF:-1 ,爱科学
+http://39.134.134.85/000000001000/6000000006000160630/1.m3u8
+#EXTINF:-1 ,爱旅行
+http://39.134.134.85/000000001000/6000000006000250630/1.m3u8
+#EXTINF:-1 ,爱娱乐
+http://39.134.134.85/000000001000/6000000006000130630/1.m3u8
+#EXTINF:-1 ,爱探索
+http://39.134.134.85/000000001000/6000000006000300630/1.m3u8
+#EXTINF:-1 ,爱悬疑
+http://39.134.134.85/000000001000/6000000006000050630/1.m3u8
+#EXTINF:-1 ,爱青春
+http://39.134.134.85/000000001000/6000000006000100630/1.m3u8
+#EXTINF:-1 ,爱院线
+http://39.134.134.85/000000001000/6000000006000030630/1.m3u8
+#EXTINF:-1 ,爱都市
+http://39.134.134.85/000000001000/6000000006000080630/1.m3u8
+#EXTINF:-1 ,爱江湖
+http://39.134.134.85/000000001000/6000000006000110630/1.m3u8
+#EXTINF:-1 ,爱时尚
+http://39.134.134.85/000000001000/6000000006000140630/1.m3u8
+#EXTINF:-1 ,爱赛车
+http://39.134.134.85/000000001000/6000000006000240630/1.m3u8
+#EXTINF:-1 ,爱谍战
+http://39.134.134.85/000000001000/6000000006000070630/1.m3u8
+#EXTINF:-1 ,爱解密
+http://39.134.134.85/000000001000/6000000006000200630/1.m3u8
+#EXTINF:-1 ,爱美食
+http://39.134.134.85/000000001000/6000000006000120630/1.m3u8
+#EXTINF:-1 ,爱奇谈
+http://39.134.134.85/000000001000/6000000006000270630/1.m3u8
+#EXTINF:-1 ,爱喜剧
+http://39.134.134.85/000000001000/6000000006000010630/1.m3u8
+#EXTINF:-1 ,爱历史
+http://39.134.134.85/000000001000/6000000006000150630/1.m3u8
+#EXTINF:-1 ,爱军武
+http://39.134.134.85/000000001000/6000000006000170630/1.m3u8
+#EXTINF:-1 ,爱体育
+http://39.134.134.85/000000001000/6000000006000290630/1.m3u8
+#EXTINF:-1 ,爱猎奇
+http://39.134.134.85/000000001000/6000000006000190630/1.m3u8
+#EXTINF:-1 ,爱浪漫
+http://39.134.134.85/000000001000/6000000006000040630/1.m3u8
+#EXTINF:-1 ,爱怀旧
+http://39.134.134.85/000000001000/6000000006000260630/1.m3u8
+#EXTINF:-1 ,爱经典
+http://39.134.134.85/000000001000/6000000006000060630/1.m3u8
+#EXTINF:-1 ,爱家庭
+http://39.134.134.85/000000001000/6000000006000090630/1.m3u8
+#EXTINF:-1 ,爱幼教
+http://39.134.134.85/000000001000/6000000006000180630/1.m3u8
+#EXTINF:-1 ,爱电竞
+http://39.134.134.85/000000001000/6000000006000230630/1.m3u8
+#EXTINF:-1 ,爱玩具
+http://39.134.134.85/000000001000/6000000006000220630/1.m3u8
+#EXTINF:-1 ,爱动漫
+http://39.134.134.85/000000001000/6000000006000280630/1.m3u8
+#EXTINF:-1 tvg-id="newtvbj",NewTV世界搏击
+http://183.207.248.71:80/cntv/live1/n-bokesen/n-bokesen
+#EXTINF:-1 tvg-id="newtvjk",NewTV健康有约
+http://183.207.248.71:80/cntv/live1/n-ljiankangyouyue/n-ljiankangyouyue
+#EXTINF:-1 tvg-id="newtvjs",NewTV军事评论
+http://183.207.248.71:80/cntv/live1/n-junshipl/n-junshipl
+#EXTINF:-1 tvg-id="newtvgz",NewTV古装剧场
+http://183.207.248.71:80/cntv/live1/n-guzhuangjc/n-guzhuangjc
+#EXTINF:-1 tvg-id="newjunlv",NewTV军旅剧场
+http://183.207.248.71:80/cntv/live1/n-junlvjc/n-junlvjc
+#EXTINF:-1 tvg-id="newtvnongye",NewTV农业致富
+http://183.207.248.71:80/cntv/live1/n-nongyezf/n-nongyezf
+#EXTINF:-1 tvg-id="newtvdz",NewTV动作电影
+http://183.207.248.71:80/cntv/live1/n-dongzuody/n-dongzuody
+#EXTINF:-1 tvg-id="newtvjt",NewTV家庭剧场
+http://183.207.248.71:80/cntv/live1/n-jiatingjc/n-jiatingjc
+#EXTINF:-1 tvg-id="newtvjsdy",NewTV惊悚电影
+http://183.207.248.71:80/cntv/live1/n-jingsongxy/n-jingsongxy
+#EXTINF:-1 tvg-id="newtvcmlapo",NewTV潮妈辣婆
+http://183.207.248.71:80/cntv/live1/n-cmlapo/n-cmlapo
+#EXTINF:-1 tvg-id="newtvxwwl",NewTV炫舞未来
+http://183.207.248.71:80/cntv/live1/HD-4000k-1080P-xwwl/HD-4000k-1080P-xwwl
+#EXTINF:-1 tvg-id="newtvaqxj",NewTV爱情喜剧
+http://183.207.248.71:80/cntv/live1/n-aiqingxj/n-aiqingxj
+#EXTINF:-1 tvg-id="newtvtiyu",NewTV精品体育
+http://183.207.248.71:80/cntv/live1/n-jtiyu/n-jtiyu
+#EXTINF:-1 tvg-id="newtvjp",NewTV精品大剧
+http://183.207.248.71:80/cntv/live1/n-jdaju/n-jdaju
+#EXTINF:-1 tvg-id="newtvjl",NewTV精品纪录
+http://183.207.248.71:80/cntv/live1/n-jingpinjl/n-jingpinjl
+#EXTINF:-1 tvg-id="newtvzongyi",NewTV金牌综艺
+http://183.207.248.71:80/cntv/live1/n-saishijx/n-saishijx
+#EXTINF:-1 tvg-id="newtvgf",NewTV中国功夫
+http://183.207.248.71:80/cntv/live1/n-gzkongfu/n-gzkongfu
+#EXTINF:-1 tvg-id="newtvrbjx",NewTV热播精选
+http://183.207.248.71:80/cntv/live1/n-xiqumd/n-xiqumd
+#EXTINF:-1 tvg-id="newtvjpzh",NewTV精品综合
+http://183.207.248.71:80/cntv/live1/n-mingxingdp/n-mingxingdp
+#EXTINF:-1 tvg-id="hmdj",NewTV黑莓电竞之夜
+http://183.207.248.71:80/cntv/live1/wmyx/wmyx
+#EXTINF:-1 tvg-id="hmdy",NewTV黑莓电影
+http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-Supermovie/HD-8000k-1080P-Supermovie
+#EXTINF:-1 tvg-id="hmdh",NewTV黑莓动画
+http://183.207.248.71:80/cntv/live1/donghuawg/donghuawg
+#EXTINF:0,上海纪实人文
+http://iptv.tvfix.org/hls/docuchina.m3u8
+#EXTINF:0,湖南金鹰纪实
+http://iptv.tvfix.org/hls/gedocu.m3u8
+#EXTINF:0,湖南金鹰卡通
+http://iptv.tvfix.org/hls/jykttv.m3u8
+#EXTINF:0,北京卫视
+http://iptv.tvfix.org/hls/btv1hd.m3u8
+#EXTINF:0,北京文艺
+http://iptv.tvfix.org/hls/btv2hd.m3u8
+#EXTINF:0,北京科教
+http://iptv.tvfix.org/hls/btv3hd.m3u8
+#EXTINF:0,北京影视
+http://iptv.tvfix.org/hls/btv4hd.m3u8
+#EXTINF:0,北京财经
+http://iptv.tvfix.org/hls/btv5hd.m3u8
+#EXTINF:0,北京生活
+http://iptv.tvfix.org/hls/btv7hd.m3u8
+#EXTINF:0,北京青年
+http://iptv.tvfix.org/hls/btv8hd.m3u8
+#EXTINF:0,北京新闻
+http://iptv.tvfix.org/hls/btv9hd.m3u8
+#EXTINF:0,北京冬奥纪实
+http://iptv.tvfix.org/hls/btv11hd.m3u8
+#EXTINF:0,CCTV-1综合
+http://iptv.tvfix.org/hls/cctv1hd.m3u8
+#EXTINF:0,CCTV-2财经
+http://iptv.tvfix.org/hls/cctv2hd.m3u8
+#EXTINF:0,CCTV-3综艺
+http://iptv.tvfix.org/hls/cctv3hd.m3u8
+#EXTINF:17,CCTV-4中文国际
+http://iptv.tvfix.org/hls/cctv4hd.m3u8
+#EXTINF:0,CCTV-5体育
+http://iptv.tvfix.org/hls/cctv5hd.m3u8
+#EXTINF:0,CCTV-5+体育赛事
+http://iptv.tvfix.org/hls/cctv5phd.m3u8
+#EXTINF:-1 ,CCTV-6电影
+http://39.134.134.85/000000001000/1000000001000016466/index.m3u8
+#EXTINF:0,CCTV-6电影
+http://iptv.tvfix.org/hls/cctv6hd.m3u8
+#EXTINF:0,CCTV-7国防军事
+http://iptv.tvfix.org/hls/cctv7hd.m3u8
+#EXTINF:0,CCTV-8电视剧
+http://iptv.tvfix.org/hls/cctv8hd.m3u8
+#EXTINF:0,CCTV-9纪录
+http://iptv.tvfix.org/hls/cctv9hd.m3u8
+#EXTINF:0,CCTV-10科教
+http://iptv.tvfix.org/hls/cctv10hd.m3u8
+#EXTINF:0,CCTV-11戏曲
+http://iptv.tvfix.org/hls/cctv11.m3u8
+#EXTINF:0,CCTV-12社会与法
+http://iptv.tvfix.org/hls/cctv12hd.m3u8
+#EXTINF:0,CCTV-13新闻
+http://iptv.tvfix.org/hls/cctv13hd.m3u8
+#EXTINF:0,CCTV-14少儿
+http://iptv.tvfix.org/hls/cctv14hd.m3u8
+#EXTINF:0,CCTV-15音乐
+http://iptv.tvfix.org/hls/cctv15.m3u8
+#EXTINF:0,CCTV-17农村农业
+http://iptv.tvfix.org/hls/cctv17hd.m3u8
+#EXTINF:0,CGTN
+http://iptv.tvfix.org/hls/cctv16.m3u8
+#EXTINF:0,CGTN-纪录
+http://iptv.tvfix.org/hls/cgtnhd.m3u8
+#EXTINF:0,湖南卫视
+http://iptv.tvfix.org/hls/hunanhd.m3u8
+#EXTINF:0,浙江卫视
+http://iptv.tvfix.org/hls/zjhd.m3u8
+#EXTINF:0,江苏卫视
+http://iptv.tvfix.org/hls/jshd.m3u8
+#EXTINF:0,北京卫视
+http://iptv.tvfix.org/hls/btv1hd.m3u8
+#EXTINF:0,东方卫视
+http://iptv.tvfix.org/hls/dfhd.m3u8
+#EXTINF:0,安徽卫视
+http://iptv.tvfix.org/hls/ahhd.m3u8
+#EXTINF:0,广东卫视
+http://iptv.tvfix.org/hls/gdhd.m3u8
+#EXTINF:0,深圳卫视
+http://iptv.tvfix.org/hls/szhd.m3u8
+#EXTINF:0,辽宁卫视
+http://iptv.tvfix.org/hls/lnhd.m3u8
+#EXTINF:0,海南卫视
+http://iptv.tvfix.org/hls/lyhd.m3u8
+#EXTINF:0,山东卫视
+http://iptv.tvfix.org/hls/sdhd.m3u8
+#EXTINF:0,天津卫视
+http://iptv.tvfix.org/hls/tjhd.m3u8
+#EXTINF:0,重庆卫视
+http://iptv.tvfix.org/hls/cqhd.m3u8
+#EXTINF:0,东南卫视
+http://iptv.tvfix.org/hls/dnhd.m3u8
+#EXTINF:0,甘肃卫视
+http://iptv.tvfix.org/hls/gstv.m3u8
+#EXTINF:0,广西卫视
+http://iptv.tvfix.org/hls/gxhd.m3u8
+#EXTINF:0,贵州卫视
+http://iptv.tvfix.org/hls/gzhd.m3u8
+#EXTINF:0,河北卫视
+http://iptv.tvfix.org/hls/hebhd.m3u8
+#EXTINF:0,黑龙江卫视
+http://iptv.tvfix.org/hls/hljhd.m3u8
+#EXTINF:0,河南卫视
+http://iptv.tvfix.org/hls/hnhd.m3u8
+#EXTINF:0,湖北卫视
+http://iptv.tvfix.org/hls/hbhd.m3u8
+#EXTINF:0,江西卫视
+http://iptv.tvfix.org/hls/jxhd.m3u8
+#EXTINF:0,吉林卫视
+http://iptv.tvfix.org/hls/jlhd.m3u8
+#EXTINF:0,内蒙古卫视
+http://iptv.tvfix.org/hls/nmtv.m3u8
+#EXTINF:0,宁夏卫视
+http://iptv.tvfix.org/hls/nxtv.m3u8
+#EXTINF:0,山西卫视
+http://iptv.tvfix.org/hls/sxrtv.m3u8
+#EXTINF:0,陕西卫视
+http://iptv.tvfix.org/hls/sxtv.m3u8
+#EXTINF:0,四川卫视
+http://iptv.tvfix.org/hls/schd.m3u8
+#EXTINF:0,新疆卫视
+http://iptv.tvfix.org/hls/xjtv.m3u8
+#EXTINF:0,云南卫视
+http://iptv.tvfix.org/hls/yntv.m3u8
+#EXTINF:0,青海卫视
+http://iptv.tvfix.org/hls/qhtv.m3u8
+#EXTINF:0,兵团卫视
+http://iptv.tvfix.org/hls/bttv.m3u8
+#EXTINF:0,厦门卫视
+http://iptv.tvfix.org/hls/xmtv.m3u8
+#EXTINF:0,山东教育
+http://iptv.tvfix.org/hls/sdetv.m3u8
+#EXTINF:0,CETV-1
+http://iptv.tvfix.org/hls/cetv1hd.m3u8
+#EXTINF:0,CETV-3
+http://iptv.tvfix.org/hls/cetv3.m3u8
+#EXTINF:0,CETV-4
+http://iptv.tvfix.org/hls/cetv4.m3u8
+#EXTINF:60,IPTV淘电影
+http://39.134.135.81/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226552/index.m3u8?servicetype=1&icpid=88888888&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2&accountinfo=OMDVq6b4lEslJm1UnEjrD67bT%2BdBi%2FstmegbNVdYPJSeBmMWSNPD7Wrrjb2ZDi7Um5UxWiZupPnRfM4wLeS74RrZe%2BRE99EyWRk%2B%2Fh2ZwKeBjD%2BfZ9Mz5UmtqpVNJkd9dPTPolsaS4II0YdOjxvNng%3D%3D%3A20201004145232%2C60D21CCCB8A5%2C112.64.2.198%2C20201004145232%2C10000100000000050000000003887498%2CA23CC1CD0AC72C120DCED3BED1AC1863%2C-1%2C0%2C1%2C-1%2C%2C2%2C2201300%2C17%2C%2C2%2CEND
+#EXTINF:0,IPTV淘娱乐
+http://39.134.134.88/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226551/index.m3u8?servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2&accountinfo=3QGHZfaujB8rRCsAsCvwpxxlHr4QY7xmzJA0CWZ2m2oFrdR%2B0WqiDAHoOrKmOBjJo1DAVyGMxV75D0k9A8UW52%2FrO%2F0g1FiOsgmHLskIhGej57NNTIcVyR%2FC8%2FqFakBOtChdQBj46BMs%2FmbjOB0PZw%3D%3D%3A20211105223205%2C10000100000000050000000003887499%2CF6D75A298389DD1E7C3B7D397327CA23%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2CEND
+#EXTINF:0,IPTV淘剧场
+http://39.134.134.84/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226553/index.m3u8?servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2&accountinfo=3QGHZfaujB8rRCsAsCvwpxxlHr4QY7xmzJA0CWZ2m2oFrdR%2B0WqiDAHoOrKmOBjJo1DAVyGMxV75D0k9A8UW52%2FrO%2F0g1FiOsgmHLskIhGej57NNTIcVyR%2FC8%2FqFakBOatI%2F3LD77f6VT%2BVI0tODRw%3D%3D%3A20211105223205%2C10000100000000050000000003887497%2CF6D75A298389DD1E7C3B7D397327CA23%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2CEND
+#EXTINF:0,IPTV淘剧场
+http://beifeng.site:4000/udp/239.3.1.95:8001
+#EXTINF:0,北京影视
+http://live.scuec.edu.cn:8080/hls/btv4hd.m3u8
+#EXTINF:0,北京青年
+http://live.scuec.edu.cn:8080/hls/btv8hd.m3u8
+#EXTINF:0,北京新闻
+http://live.scuec.edu.cn:8080/hls/btv9hd.m3u8
+#EXTINF:0,北京冬奥纪实
+http://live.scuec.edu.cn:8080/hls/btv11hd.m3u8
+#EXTINF:0,每日影院
+http://beifeng.site:4000/udp/239.3.1.111:8001
+#EXTINF:0,北京卫视
+http://beifeng.site:4000/udp/239.3.1.096:8001
+#EXTINF:0,广东南方卫视
+http://beifeng.site:4000/udp/239.3.1.161:8001
+#EXTINF:-1,广东影视
+http://112.74.200.9:88/tv000000/m3u8.php?/iTouchTV/1199
+#EXTINF:-1,广东新闻
+http://112.74.200.9:88/tv000000/m3u8.php?/iTouchTV/1186
+#EXTINF:-1,广东综艺
+http://112.74.200.9:88/tv000000/m3u8.php?/iTouchTV/1198
+#EXTINF:-1,广东文化
+https://glive.grtn.cn/live/wenhua_test0203.m3u8
+#EXTINF:0,TVBS亚洲台
+http://iptv.tvfix.org/hls/tvbs.m3u8
+#EXTINF:0,TVBS新聞台
+http://iptv.tvfix.org/hls/tvbsnews.m3u8
+#EXTINF:29,IPTV谍战剧场
+http://39.134.39.37/PLTV/88888888/224/3221226256/index.m3u8
+#EXTINF:0,SiTV动漫秀场
+http://39.134.39.39/PLTV/88888888/224/3221226197/index.m3u8
+#EXTINF:0,SiTV欢笑剧场
+http://39.134.39.39/PLTV/88888888/224/3221226203/index.m3u8
+#EXTINF:0,SiTV都市剧场
+http://39.134.39.39/PLTV/88888888/224/3221226176/index.m3u8
+#EXTINF:-1,SiTV新视觉台
+http://112.25.48.68/live/program/live/xsjhd/4000000/mnf.m3u8
+#EXTINF:-1,喜剧影
+http://39.134.39.39/270000001322/69900158041111100000002189/index.m3u8
+#EXTINF:-1,动作影
+http://39.134.39.39/270000001322/69900158041111100000002188/index.m3u8
+#EXTINF:-1,武侠剧场
+http://39.134.39.39/270000001322/69900158041111100000002190/index.m3u8
+#EXTINF:-1,欧美 科幻
+http://dyscdnali1.douyucdn.cn/live/20415rnWbjg6Ex1K.flv?uuid=#http://vip.usa7.345123.xyz/douyu.php?id=20415#http://epg.112114.xyz/douyu/20415
+#EXTINF:-1,华语 经典
+http://dyscdnali1.douyucdn.cn/live/122402rK7MO9bXSq.flv?uuid=#http://vip.usa7.345123.xyz/douyu.php?id=122402#http://epg.112114.xyz/douyu/122402
+#EXTINF:-1,喜剧
+http://dyscdnali1.douyucdn.cn/live/85894rmovieChow.flv?uuid=#http://vip.usa7.345123.xyz/douyu.php?id=85894#http://epg.112114.xyz/douyu/85894
+#EXTINF:0,Choufilm
+http://tx2play1.douyucdn.cn/live/85894rmovieChow.flv
+#EXTINF:0,明星大片
+http://39.134.115.163:8080/PLTV/88888910/224/3221225716/index.m3u8
+#EXTINF:-1 tvg-id="MOVIES 1",MOVIES 1
+http://121.51.249.99/txdirect.hls.huya.com/src/1099531752774-1099531752774-86436208242065408-2199063629004-10057-A-0-1.m3u8?
+#EXTINF:-1 tvg-id="MOVIES 2"",MOVIES 2
+http://tx2play1.douyucdn.cn/live/dyliveflv3/3637778raLSXdOdu_4000p.xs
+#EXTINF:-1 tvg-id="MOVIES 3",MOVIES 3
+http://111.6.244.41/tx.hls.huya.com/src/1394565192-1394565192-5989611891779960832-2789253840-10057-A-0-1-imgplus.m3u8?
+#EXTINF:-1 tvg-id="MOVIES2000",Movies2000
+http://tx2play1.douyucdn.cn/live/20415rnWbjg6Ex1K_2000.flv
+#EXTINF:-1 tvg-id="MOVIES4",MOVIES4
+http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
+#EXTINF:-1 ,天映经典
+http://iptv.tvfix.org/hls/tyjd.m3u8
+#EXTINF:-1 ,天映经典(普通话)
+http://iptv.tvfix.org/hls/tyjd2.m3u8
+#EXTINF:-1,邵氏电影
+http://epg.112114.xyz/douyu/4246519#http://vip.usa7.345123.xyz/douyu.php?id=4246519#http://cloudplay.tk/api/douyu.php?
+id=4246519#http://148.70.143.24/cms/yslb/yunshitv/wangyouzhibo/douyu.php?tvplay=4246519
